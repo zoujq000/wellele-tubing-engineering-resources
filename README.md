@@ -75,3 +75,4 @@ WELLELE Tubing provides customized polymer tubing and electrical insulation solu
 Official engineering resource center:
 
 https://welleletubing.com
+https://heatshrinktubes.net
