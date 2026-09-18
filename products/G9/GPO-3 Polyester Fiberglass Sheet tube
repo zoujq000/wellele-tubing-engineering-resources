@@ -1,0 +1,80 @@
+# GPO-3 Polyester Fiberglass Sheet (GPO-3 聚酯玻纤板)
+
+**Document:** Engineering reference, P17, revision 2026-09  
+**Product family:** Electrical Insulation Sheet  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/product-category/vf-fr4-g10-gpo3-smc-laminated-sheet.html
+
+---
+
+## 1. Scope
+
+This reference covers GPO-3, the NEMA designation for a flame retardant unsaturated polyester glass mat laminate, known as UPGM203 in IEC and European practice. It is usually specified where flame rating and tracking resistance matter more than mechanical strength.
+
+## 2. Construction
+
+- Glass fibre mat impregnated with an unsaturated polyester resin system with flame retardant fillers.
+- Produced as a rigid flat sheet, then machined into barriers, supports and spacers.
+- Tracking and flame performance are grade properties, and both are declared.
+- Thickness tolerance is controlled at the press rather than after machining.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Grade | NEMA GPO-3, IEC designation UPGM203 | Declare the grade on the accompanying documents. |
+| Flame behaviour | UL 94 V-0 typical for this grade | One of the main reasons GPO-3 is selected over a general purpose laminate. |
+| Tracking resistance | Declared CTI per IEC 60112 | Relevant for barriers close to energised parts. |
+| Arc resistance | Declared per ASTM D495 | Relevant where an arc can terminate on the surface. |
+| Form | Sheet, or machined parts to drawing | Machining is usually carried out by the same supplier as the sheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Whether flame rating or mechanical strength is the controlling requirement, which decides GPO-3 against FR4 or G10.
+- Tracking and arc resistance requirements, both of which should be declared rather than assumed.
+- Thickness and its tolerance, which affect both insulation distance and mechanical fit.
+- The machining operations required, since drilling and routing produce dust and burrs.
+- Whether certification documents are needed with the shipment.
+
+## 5. Standards commonly specified
+
+- NEMA LI 1, industrial thermosetting laminated products, which defines the GPO-3 grade.
+- IEC 60893 series, rigid laminated sheets based on thermosetting resins.
+- UL 94, flammability of plastic materials.
+- IEC 60112, determination of comparative tracking index.
+- ASTM D495, high voltage low current dry arc resistance.
+- ASTM D229, test methods for rigid sheet and plate materials.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Extract dust when machining. Glass filled laminate dust is abrasive and a respiratory hazard.
+- Deburr drilled holes and routed edges. A burr on a barrier reduces the effective insulation distance.
+- Do not stack machined parts unprotected, since edges chip.
+- Store flat and dry. A sheet that takes up moisture changes dimensions slightly before machining.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Barrier fails clearances because of burrs | Machined edges left undeburred | Deburr and inspect machined edges as part of the process. |
+| Tracking on a contaminated surface | CTI below the requirement for the service condition | Specify a grade with a declared CTI for the application and clean before assembly. |
+| Thickness out of tolerance | Sheet tolerance not confirmed at incoming | Verify thickness at incoming against the requirement. |
+| Missing certification documents | Grade or batch not declared with the shipment | Require grade and batch identification with the delivery. |
+
+## 8. Typical applications
+
+- Switchgear and controlgear barriers and phase separators.
+- Busbar supports and spacers in panel builds.
+- Transformer and panel builder insulation parts.
+- EV charging equipment where a flame rated barrier is required.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/product-category/vf-fr4-g10-gpo3-smc-laminated-sheet.html
