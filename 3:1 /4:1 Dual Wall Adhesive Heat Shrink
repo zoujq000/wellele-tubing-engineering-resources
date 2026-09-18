@@ -1,0 +1,77 @@
+# 3:1 / 4:1 Dual Wall Adhesive Heat Shrink (双壁含胶热缩管 3:1/4:1)
+
+**Document:** Engineering reference, P07, revision 2026-09  
+**Product family:** Adhesive Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/dual-wall-adhesive-heat-shrink-tubing-3to1-4to1.html
+
+---
+
+## 1. Scope
+
+This reference covers dual wall adhesive lined heat shrink with 3:1 and 4:1 recovery ratios. The reason to choose a high ratio is rarely insulation. It is usually the number of sizes a harness family has to carry.
+
+## 2. Construction
+
+- Cross-linked polyolefin outer wall with a hot melt adhesive inner layer.
+- Expanded at 3:1 or 4:1, so one supplied size covers a wider band of cable and connector diameters.
+- Outer wall and adhesive layer are declared separately on the datasheet.
+- Supplied in cut lengths, in a size-ordered kit, or on a reel.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Shrink ratio | 3:1 and 4:1 | Higher ratio buys coverage range and costs wall thickness after recovery. |
+| Continuous operating temperature | -55 C to +125 C (typical polyolefin) | Confirm against the specific grade datasheet. |
+| Recovery | Hot air, typically 120 to 150 C air temperature | High ratio parts need even heating around the circumference. |
+| Flame behaviour | UL 224 VW-1 (common specification) | A property of the grade rather than of the expansion ratio. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The diameter band the part has to span, which is what justifies 3:1 or 4:1 in the first place.
+- The wall thickness left after recovery at the small end, since a high ratio thins the wall furthest at the extremes.
+- Whether the harness needs to stay flexible, because a recovered high ratio part is stiffer than a 2:1 part of the same material.
+- Recovery temperature against nearby materials, especially connectors with a low temperature limit.
+- The size list the harness family carries, which is where the real saving is.
+
+## 5. Standards commonly specified
+
+- UL 224, extruded insulating tubing.
+- SAE-AMS-DTL-23053 and the adhesive lined polyolefin slash sheet within that family.
+- IEC 60684 series, flexible insulating sleeving.
+- ASTM D2671, test methods for heat shrinkable tubing.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Recover evenly around the circumference. A high ratio part heated from one side shrinks on that side first and traps the rest.
+- Allow for the adhesive to flow at both ends, which is the seal.
+- Do not use a high ratio part as a substitute for a proper breakout boot where the geometry genuinely calls for one.
+- Check the recovered result on an actual assembly, not on a straight length of cable.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Thin wall at the small end | A size chosen at the limit of its ratio range | Select so the target diameter sits comfortably inside the range rather than at the edge. |
+| Adhesive not sealing at one end | Uneven heating left one end short of recovery | Heat around the circumference and continue until both ends have visibly flowed. |
+| Harness too stiff after repair | 4:1 part used where a 2:1 part would have fitted | Use the lowest ratio that spans the diameter band. |
+| Damaged connector during recovery | Recovery temperature above the connector limit | Set the air temperature from the lower of the two material limits. |
+
+## 8. Typical applications
+
+- EV and specialty vehicle harnesses with a wide spread of connector diameters.
+- Truck, bus, marine and rail harnesses where size count is a logistics cost.
+- Field repair where a single kit has to cover several splice sizes.
+- Irregular connector bodies that a 2:1 part cannot pass over.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/dual-wall-adhesive-heat-shrink-tubing-3to1-4to1.html
