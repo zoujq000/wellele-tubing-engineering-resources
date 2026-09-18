@@ -1,0 +1,80 @@
+# Filament Wound Epoxy Fiberglass Tube (环氧玻纤缠绕管)
+
+**Document:** Engineering reference, P16, revision 2026-09  
+**Product family:** Composite Insulation  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/product-category/g10-g11-epoxy-fiberglass-tube.html
+
+---
+
+## 1. Scope
+
+This reference covers filament wound epoxy glass tubes, as distinct from rolled and cured tube. Filament winding puts continuous fibre along a controlled path, which is why the process is chosen when mechanical load and insulation have to be met in the same part.
+
+## 2. Construction
+
+- Continuous glass fibre wound on a mandrel at a controlled angle and impregnated with epoxy resin.
+- Fibre angle sets the balance between axial and hoop strength, so the winding pattern is part of the specification.
+- Mandrel is removed after cure, and the tube is then machined to final length and features.
+- Wall thickness is built by winding passes rather than by laminating sheet.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Process | Filament winding on a mandrel, epoxy matrix | Distinct from rolled tube in fibre continuity and directional strength. |
+| Mechanical properties | Flexural and tensile per ASTM D790 and ASTM D638 | Winding angle determines how the tube behaves in each direction. |
+| Electrical properties | Dielectric strength per ASTM D149, insulation resistance per ASTM D257 | Declared for the tube build, not for a generic laminate. |
+| Grades | G10 and G11 epoxy glass types | The machining characteristics of the two differ. |
+| Flame behaviour | UL 94 rating as declared for the build | Confirm against the datasheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Whether the load on the tube is mainly axial or hoop, since that sets the winding angle.
+- Wall thickness against the load case, because a thin wall wound tube is where cracking starts.
+- The machining operations required afterwards, since machining cuts the continuous fibre.
+- Concentricity and straightness tolerance needed for the assembly.
+- Whether the part is a standard tube or a special size, since mandrel availability drives lead time.
+
+## 5. Standards commonly specified
+
+- ASTM D790, flexural properties of reinforced plastics.
+- ASTM D638, tensile properties of plastics.
+- ASTM D149, dielectric breakdown voltage of solid insulating materials.
+- ASTM D257, DC resistance or conductance of insulating materials.
+- NEMA LI 1 and IEC 60893 series, laminated and composite insulation grades.
+- IEC 60893-3-2, requirements for rigid laminated sheets based on epoxy resins.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Support thin wall tubes along their length during machining. A tube held at the ends and cut in the middle is where delamination starts.
+- Use sharp tooling and control the feed so heat does not build up at the cut.
+- Deburr machined ends and remove dust before the part enters an electrical assembly.
+- Store horizontally and supported, since a long thin wall tube sags under its own weight.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Thin wall cracking during machining | Insufficient support and a cut that loads the wall between the supports | Support along the length and reduce the cut depth per pass. |
+| Interlaminar delamination | Winding or cure not controlled for the tube build | Confirm the build against the specification and check at incoming. |
+| Machining burrs in the assembly | Tooling life or feed speed not controlled | Sharpen tooling on a schedule and inspect machined ends. |
+| Tube out of tolerance in concentricity | Mandrel or winding tension variation, or distortion after cure | Set the concentricity tolerance against requirement and verify at incoming. |
+
+## 8. Typical applications
+
+- Switchgear and breaker components where insulation and mechanical load combine.
+- Medical equipment and industrial machinery requiring a strong insulating tube.
+- Aerospace and cryogenic equipment where a specific stiffness and thermal profile is needed.
+- Fuse and interrupter bodies requiring a structural tube.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/product-category/g10-g11-epoxy-fiberglass-tube.html
