@@ -1,0 +1,78 @@
+# Composite Sleeve for Dropout Fuse (硬化纤维复合玻纤套管（跌落式熔断器）)
+
+**Document:** Engineering reference, P15, revision 2026-09  
+**Product family:** Fuse & Arc Quenching  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/fuse-body-tube-power-protection/
+
+---
+
+## 1. Scope
+
+This reference covers composite tubes used in dropout and distribution cutouts. These tubes work outdoors for years, interrupt repeatedly, and are handled by crews with hot sticks, which is a combination of requirements that does not apply to a fuse inside an enclosure.
+
+## 2. Construction
+
+- Composite body with a gas generating inner element and a structural outer wall.
+- Buttons, trunnions and contact hardware fitted to the tube as part of the cutout assembly.
+- Outdoor grade materials for UV and weather exposure.
+- Length and diameter matched to the cutout frame and the voltage class.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage classes | Distribution cutout classes up to 36 kV | Match to the cutout frame and the system voltage. |
+| Duty | Repeated interruption of distribution fault currents | Established by type test on the cutout assembly. |
+| Environment | Outdoor, UV exposed, all weather | Weathering resistance is a design requirement, not a finish. |
+| Hardware fit | Trunnions, buttons and contacts to the cutout design | Hardware interface tolerances decide whether the tube drops out cleanly. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The cutout frame and voltage class the tube has to fit, including the hardware interface.
+- The fault level the cutout is expected to clear repeatedly.
+- Weather exposure at the site, particularly UV intensity and humidity.
+- Whether the tube is supplied bare or with hardware fitted.
+- Whether the requirement is a replacement tube or a tube for a new cutout design.
+
+## 5. Standards commonly specified
+
+- IEC 60282-2, high voltage fuses for expulsion fuse designs.
+- IEEE C37.41, design tests for high voltage fuses.
+- IEEE C37.42, distribution cutouts and fuse links.
+- ASTM G154, UV exposure practice for non-metallic materials.
+- IEC 60587, tracking and erosion under severe conditions.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Fit and handle with the tooling the crew actually uses, since the tube is installed from a hot stick.
+- Check that the tube drops cleanly before commissioning. A tube that hangs up does not clear the circuit as designed.
+- Protect the bore during storage and transport.
+- Confirm hardware is fitted to the specified torque so the drop-out mechanism works.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Tube does not drop out after operation | Hardware interface fouling, or the tube partially seized in the frame | Verify the drop test on the assembly before commissioning and keep the interface clean and dry. |
+| Arc ablation after repeated interruption | Tube duty exceeded, or a liner not matched to the fault level | Confirm the tube against the cutout duty and the type test evidence. |
+| Moisture uptake and swelling | Composite left unsealed in humid storage | Store sealed and assemble from dry stock. |
+| Mechanical damage from hot stick handling | Crew handling load above what the wall accepts at the contact points | Confirm the tube wall against the hardware clamping arrangement. |
+
+## 8. Typical applications
+
+- Distribution cutouts on overhead lines.
+- Dropout fuse assemblies in utility networks.
+- Projects in humid and high UV regions where weather resistance drives material choice.
+- Utility hardware manufacturers and grid distributors maintaining existing cutout populations.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/fuse-body-tube-power-protection/
