@@ -1,0 +1,77 @@
+# 2:1 PFA Heat Shrink Tubing (PFA 热缩管 2:1)
+
+**Document:** Engineering reference, P09, revision 2026-09  
+**Product family:** Fluoropolymer Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/pfa-heat-shrink-tubing-2to1.html
+
+---
+
+## 1. Scope
+
+This reference covers 2:1 PFA heat shrink tubing. PFA is normally chosen for two reasons: high continuous temperature, and high purity in contact with process fluid or a clean environment.
+
+## 2. Construction
+
+- Melt processable fluoropolymer copolymer expanded to a 2:1 ratio and quenched.
+- Smooth, low extractable surface suitable for high purity fluid paths.
+- Thin wall grades available for tight envelopes.
+- Semi-transparent in thin wall grades, which allows visual inspection of the covered part.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Continuous use temperature | About 260 C | Among the highest of the melt processable fluoropolymers. |
+| Shrink ratio | 2:1 | Sufficient for a straight tube or splice covering. |
+| Recovery | Controlled hot air above the polymer softening range | PFA requires a higher recovery temperature than polyolefin. |
+| Purity | Low extractables and low particle shedding in clean grades | Confirm the grade against the process requirement. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The purity requirement of the fluid or environment the part touches, which is often the deciding factor over price.
+- Continuous and peak temperature, including any sterilisation or cleaning cycle.
+- Chemical exposure, including cleaning agents used between production runs.
+- Whether visual inspection of the covered part is needed, which favours a thin semi-transparent wall.
+- Whether a qualification package is required before the part can be designed in.
+
+## 5. Standards commonly specified
+
+- ASTM D2671, test methods for heat shrinkable tubing.
+- UL 224, extruded insulating tubing.
+- IEC 60684 series, flexible insulating sleeving.
+- SAE-AMS-DTL-23053 and the PFA slash sheet within that family pending confirmation of the applicable sheet.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Ventilate the work area and keep the recovery temperature inside the manufacturer range.
+- Handle with clean gloves. A fingerprint on a high purity part is a defect.
+- Store in the original packaging until the moment of use.
+- Do not re-heat a recovered part to adjust its position. Recovered PFA does not re-expand.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Particle contamination found at incoming inspection | Packaging or handling not controlled | Specify clean packaging and glove handling, and inspect at incoming. |
+| Dimensional drift after recovery | Recovery temperature or soak time outside the recommended window | Fix the process window and verify on a sample before production. |
+| Chemical attack in service | Polymer or grade not matched to the actual chemistry and temperature combination | Confirm the grade against the full chemical and temperature exposure, not temperature alone. |
+| Supplier qualification delays | No qualification package available for the grade | Request the grade documentation as part of the first enquiry. |
+
+## 8. Typical applications
+
+- Semiconductor wet process equipment and fluid handling subsystems.
+- Analytical instruments where the fluid path must stay clean.
+- High temperature sensor and probe assemblies.
+- Medical and laboratory equipment with repeated cleaning cycles.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/pfa-heat-shrink-tubing-2to1.html
