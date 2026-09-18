@@ -1,0 +1,78 @@
+# G9/G5 Melamine Fuse Tube (G9/G5 三聚氰胺熔断管)
+
+**Document:** Engineering reference, P13, revision 2026-09  
+**Product family:** Fuse & Arc Quenching  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/product/g9-g5-melamine-tubes.html
+
+---
+
+## 1. Scope
+
+This reference covers tubes machined from NEMA G5 and G9 glass melamine laminate. These grades are selected when arc resistance and resistance to thermal carbonisation matter more than the highest available dielectric strength.
+
+## 2. Construction
+
+- Glass fabric reinforced melamine resin laminate, machined to tube form after cure.
+- G5 and G9 differ in the resin system and filler, which shows up in arc resistance and thermal behaviour rather than in dielectric strength alone.
+- Machined from sheet or rod stock, so wall thickness uniformity depends on the machining process, not only on the laminate.
+- Arc resistance and tracking behaviour are declared properties of the grade.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Grade | NEMA G5 and G9 glass melamine laminate | Grade identification should be declared on the document accompanying the shipment. |
+| Arc resistance | Declared per ASTM D495 | The property that normally drives the choice of melamine over epoxy. |
+| Tracking resistance | Declared CTI per IEC 60112 | Relevant where the part sees surface contamination. |
+| Flame behaviour | UL 94 V-0 common for these grades | Confirm against the specific grade datasheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Which grade is actually required, G5 or G9, since the two differ in arc and thermal behaviour.
+- Whether the part is a tube, a ring or a machined barrier, which changes how the material is cut and finished.
+- The machining operations involved, especially thread cutting, which is where melamine cracks.
+- Whether the laminate grade has to be traceable on the certification documents.
+- Whether the quantity justifies a custom size or a standard wall should be machined down.
+
+## 5. Standards commonly specified
+
+- NEMA LI 1, industrial thermosetting laminated products, which defines the G5 and G9 grades.
+- IEC 60893 series, rigid laminated sheets based on thermosetting resins.
+- ASTM D495, high voltage low current dry arc resistance.
+- IEC 60112, determination of comparative tracking index.
+- UL 94, flammability of the material.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Cut and machine with the laminate supported. Melamine is notch sensitive, so a part held only by its ends tends to crack at the thread.
+- Use sharp tooling and controlled feed. Heat built up at the cut degrades the resin at the machined surface.
+- Remove machining dust completely before the part goes into an electrical assembly.
+- Do not use solvents that attack the resin to clean the machined surface.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Cracking during thread cutting | Notch sensitivity combined with unsupported workholding or blunt tooling | Support the part, use sharp tooling, and cut threads in the sequence established for the grade. |
+| Carbonisation in service | Grade or wall thickness not matched to the arc energy | Confirm the grade against the duty and check thermal behaviour at the design stage. |
+| Dimensional drift after machining | Moisture movement in the laminate not allowed for | Condition the material and allow for moisture movement in the tolerance chain. |
+| Grade identification disputed at incoming | No grade marking or certificate with the shipment | Require the grade to be declared on the accompanying documents. |
+
+## 8. Typical applications
+
+- Fuse links and fuse carriers in switchgear.
+- High voltage component bodies where arc resistance is the limiting property.
+- Electrical insulation fabricators producing machined barriers and spacers.
+- Switchgear OEMs specifying an arc resistant insulation grade.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/product/g9-g5-melamine-tubes.html
