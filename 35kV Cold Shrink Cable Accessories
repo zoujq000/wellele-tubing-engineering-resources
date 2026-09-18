@@ -1,0 +1,77 @@
+# 35kV Cold Shrink Cable Accessories (26/35kV 冷缩电缆附件)
+
+**Document:** Engineering reference, P05, revision 2026-09  
+**Product family:** MV Cold Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/26-35kv-cold-shrink-cable-accessories.html
+
+---
+
+## 1. Scope
+
+This reference covers cold shrink terminations and joints for 26/35 kV cable, the upper end of the medium voltage range. At this class the electric stress in the accessory is high enough that installation repeatability matters as much as the design itself.
+
+## 2. Construction
+
+- Pre-expanded elastomeric insulating body with integrated geometric stress control.
+- Conductive deflector moulded into the sleeve at the screen end.
+- Outdoor shed profiles sized for the site pollution level.
+- Sealing system closing the sheath and terminal interfaces.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | Uo/U 26/35 kV, Um 40.5 kV | Confirm against the cable designation and the system earthing arrangement. |
+| Conductor range (typical) | 50 to 630 mm2 | Select on measured insulation diameter. |
+| Cable temperature basis | XLPE 90 C continuous, 250 C short circuit | Applies to the cable and the accessory interface. |
+| Configurations | Indoor, outdoor, single-core | Three-core constructions are accessorised per core. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Whether the project requires a partial discharge test at commissioning, which sets the workmanship standard.
+- Pollution level for outdoor terminations at 35 kV, where shed profile has more influence than at 20 kV.
+- Screen cut-back length and insulation diameter as measured on the actual cable.
+- Wind or solar collection system layout, which often dictates a joint in a field rather than in a bay.
+- Lead time against the project programme, since this class is usually specified on a critical path.
+
+## 5. Standards commonly specified
+
+- IEC 61442, test methods for power cable accessories above 3.6 kV up to 36 kV.
+- IEC 60840, the cable standard for extruded insulation cables above 30 kV, relevant at the top of this class.
+- IEEE Std 48, test procedures for AC cable terminations.
+- IEC 60664-1, insulation coordination and creepage.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Work to a written procedure. At 35 kV the tolerance on screen cut-back and stress cone position is tighter than at 20 kV.
+- Do not install in rain or in condensing humidity without a shelter over the joint bay.
+- Verify the earthing of screen and armour before energisation and record the reading.
+- Keep the recovered surface clean. At this stress level a surface contaminant can initiate tracking.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Partial discharge above the acceptance level | Installation tolerance in the stress control region | Follow the written procedure, work dry, and test at commissioning where specified. |
+| Outdoor termination tracking | Pollution level higher than the shed profile was selected for | Select on the site pollution class and clean before energisation. |
+| Sealing failure after field installation | Work carried out in wet or condensing conditions | Shelter the bay, dry the surfaces, and apply sealing parts to drawing. |
+| Programme slippage | Accessory lead time not aligned with the cable delivery | Place the accessory order with the cable, not after it. |
+
+## 8. Typical applications
+
+- Wind farm and solar collection systems at 35 kV.
+- Utility distribution and sub-transmission interfaces.
+- MV cable manufacturers and renewable balance-of-system suppliers.
+- Projects where a commissioning partial discharge test is part of the specification.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/26-35kv-cold-shrink-cable-accessories.html
