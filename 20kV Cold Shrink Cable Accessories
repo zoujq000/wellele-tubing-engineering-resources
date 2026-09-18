@@ -1,0 +1,77 @@
+# 20kV Cold Shrink Cable Accessories (12/20kV 冷缩电缆附件)
+
+**Document:** Engineering reference, P03, revision 2026-09  
+**Product family:** MV Cold Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/12-20kv-cold-shrink-cable-accessories.html
+
+---
+
+## 1. Scope
+
+This reference covers cold shrink terminations and joints for 12/20 kV cable, a voltage class widely used in European distribution. The content is written around the fit between accessory and cable geometry, which is the recurring reason an approved accessory underperforms on site.
+
+## 2. Construction
+
+- Pre-expanded insulating sleeve with moulded geometric stress cone and conductive screen deflector.
+- Silicone or EPDM body selected for the required creepage and the expected pollution level.
+- Sealing parts at the sheath and the terminal end, supplied as part of the kit rather than as loose consumables.
+- Outdoor variants with shed profile; indoor variants with a plain insulating body.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | Uo/U 12/20 kV, Um 24 kV | Match to the cable class and the system earthing arrangement. |
+| Conductor range (typical) | 25 to 630 mm2 | Confirm against accessory table for the cable insulation diameter. |
+| Cable temperature basis | XLPE 90 C continuous, 250 C short circuit | Dimensioned to the same basis as the cable. |
+| Configurations | Indoor, outdoor, single-core and three-core | Applies per core in three-core constructions. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Measured insulation diameter and screen cut-back length, both of which are drawing dimensions.
+- Pollution level at the site where an outdoor termination is used.
+- Whether the cable is single-core or three-core, and how the cores are trained in the joint bay.
+- Earthing arrangement, which decides whether a separate screen earth is needed.
+- The IEC cable standard version the project is being built to, since geometry can differ between editions.
+
+## 5. Standards commonly specified
+
+- IEC 60502-4, test requirements for accessories for cables from 6 kV up to 30 kV.
+- IEC 61442, test methods for accessories above 3.6 kV up to 36 kV.
+- IEC 60664-1, insulation coordination and creepage.
+- IEC 60840, the cable standard relevant where the same accessory family is applied near the 30 kV boundary.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Record the screen cut-back length before the sleeve is applied, since it cannot be re-checked after recovery.
+- Keep a clean work zone. Grit under the sleeve is a stress point, not a cosmetic defect.
+- Respect the cable minimum bend radius while training the cores, particularly in a cramped joint bay.
+- Complete the earthing connection before closing the bay.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Stress cone not sitting on the screen end | Screen cut-back length taken from a different cable standard or measured loosely | Cut to the drawing for the actual cable and record the measured value before recovery. |
+| Outdoor termination flashing over | Creepage below the site pollution requirement, or sheds contaminated at commissioning | Select the shed profile for the pollution class, clean before energisation. |
+| Joint leaking after a wet installation | Sheath sealing applied to a damp surface | Dry the sheath, apply sealing parts to drawing, avoid working in standing water. |
+| Kit short of parts on site | Parts consumed or lost because they were supplied loose | Use a kit with a fixed bill of materials and check the contents before the outage. |
+
+## 8. Typical applications
+
+- European distribution networks and industrial substations built to IEC practice.
+- Solar and wind collection systems using 20 kV cable.
+- Ring main units and compact switchgear where an indoor termination is required.
+- Infrastructure projects where installation speed matters more than site heating capacity.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/12-20kv-cold-shrink-cable-accessories.html
