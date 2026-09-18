@@ -1,0 +1,78 @@
+# Vulcanized Fiber Fiberglass Composite Tube (硬化纤维复合玻纤管)
+
+**Document:** Engineering reference, P14, revision 2026-09  
+**Product family:** Fuse & Composite  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/solutions/fuse-components.html
+
+---
+
+## 1. Scope
+
+This reference covers composite tubes built from a vulcanized fibre element and a fibre reinforced structural wall. The composite exists because no single material does both jobs well: the liner has to generate gas under the arc, and the outer wall has to carry the pressure.
+
+## 2. Construction
+
+- Inner vulcanized fibre liner, which releases gas when exposed to the arc and helps extinguish it.
+- Outer structural wall in resin impregnated glass fibre carrying the mechanical load during interruption.
+- The interface between liner and outer wall is the critical bond line.
+- Tubes are machined at the ends after the composite is built.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Configuration | Vulcanized fibre liner with a fibre reinforced structural wall | Liner and wall are specified separately and built to the fuse design. |
+| Vulcanized fibre | Material per ASTM D710 | Moisture content of the fibre affects both the arc behaviour and the dimensions. |
+| Burst strength | Established by type test on the complete fuse | The composite is only proven as part of the fuse assembly. |
+| Environmental limits | Humidity dependent for the fibre element | Moisture absorption is the reason composite designs are often selected over plain fibre. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Whether the fuse design calls for a composite at all, or whether a single material meets the duty.
+- The gas generating requirement inside the bore, which sets the liner material and thickness.
+- The pressure duty, which sets the structural wall.
+- Climatic conditions at the installation, since fibre moisture behaviour is the reason composites were developed.
+- Whether the tube is a replacement for an existing design and has to match an existing drawing.
+
+## 5. Standards commonly specified
+
+- ASTM D710, vulcanized fibre sheets and related forms.
+- IEC 60282-2, high voltage fuses for expulsion fuse designs.
+- IEEE C37.41, design tests for high voltage fuses.
+- IEC 60893 series, rigid laminated sheets based on thermosetting resins.
+- IEC 60587, tracking and erosion test for electrical insulating materials used under severe conditions.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Keep the fibre element sealed until the fuse is assembled. Moisture picked up in storage changes dimensions and arc behaviour.
+- Protect the liner bore from mechanical damage during assembly of the fuse.
+- Do not allow the tube to sit in a damp area during the assembly process.
+- Confirm bond quality on a sample from each batch where the liner to wall interface is a production step.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Liner to wall debonding | Contamination at the interface or moisture in the fibre before bonding | Control humidity in the assembly area and verify bond quality on a batch sample. |
+| Arc erosion of the liner | Liner material or thickness not matched to the fault energy | Set the liner against the fuse design and confirm through type test. |
+| Dimensional change in storage | Fibre element taking up moisture | Seal the tubes for storage and assemble from dry stock. |
+| Burst during interruption | Structural wall thinner than the duty requires | Confirm the wall against the type tested design. |
+
+## 8. Typical applications
+
+- Expulsion and current limiting fuse designs where a composite body is specified.
+- Dropout cutout tubes in distribution networks.
+- Breaker and interrupter components requiring a gas generating element.
+- Electrical insulation converters building fuse assemblies.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/solutions/fuse-components.html
