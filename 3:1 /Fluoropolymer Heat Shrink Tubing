@@ -1,0 +1,78 @@
+# Fluoropolymer Heat Shrink Tubing (PTFE/FEP/PFA 铁氟龙热缩管)
+
+**Document:** Engineering reference, P08, revision 2026-09  
+**Product family:** Fluoropolymer Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/ptfe-fep-pfa-teflon-heat-shrink-tubing.html
+
+---
+
+## 1. Scope
+
+This reference covers fluoropolymer heat shrink tubing in PTFE, FEP and PFA, and the reasons one of the three is chosen over the other two. The tubes are usually specified by temperature and chemistry first, and by wall thickness second.
+
+## 2. Construction
+
+- Fluoropolymer tube expanded mechanically above its softening range and cooled in the expanded state.
+- Recovery on site is thermal, so a controlled heat source is required, unlike an elastomeric cold shrink part.
+- Available in very thin walls, which is the reason these tubes are used where space is the constraint.
+- Low surface energy gives a non-stick, low friction outer surface.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| PTFE | Continuous use to about 260 C | Highest temperature and broadest chemical resistance of the three. |
+| FEP | Continuous use to about 200 C | Lower temperature limit, optically clear grades available, easier to process. |
+| PFA | Continuous use to about 260 C | High purity and melt processable, common in fluid handling and semiconductor work. |
+| Shrink ratio | About 1.3:1 up to 4:1 depending on polymer and wall | Thin wall grades tend to sit at the lower end of the ratio range. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Maximum continuous temperature and the chemical environment, which together select the polymer.
+- Wall thickness available at the required recovery, since ultra thin wall is usually the reason the part exists.
+- Whether optical clarity is needed, which points to FEP rather than PTFE.
+- Purity requirements where the tube touches process fluid or a clean environment.
+- Whether the parts are standard or a low volume custom size, since fluoropolymer tooling is the cost driver.
+
+## 5. Standards commonly specified
+
+- ASTM D2671, test methods for heat shrinkable tubing.
+- UL 224, extruded insulating tubing.
+- IEC 60684 series, flexible insulating sleeving.
+- SAE-AMS-DTL-23053 and the polymer specific slash sheet within that family.
+- ASTM E595 for outgassing where the part is used in vacuum or space hardware.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Recover with a controlled hot air source. Fluoropolymer recovery temperatures are high enough to damage adjacent materials quickly.
+- Ventilate the work area. Fluoropolymer heated above its recommended range releases hazardous decomposition products.
+- Handle with clean gloves where the part is destined for a cleanroom or a medical build.
+- Do not stretch a thin wall part to make it fit. It will not recover evenly.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Wall damaged during installation | Excess heat or a mechanical tool used near the recovered tube | Use controlled hot air and keep tools away from the recovered surface. |
+| Tube will not stay in place | Substrate not clean, or a low friction surface providing no grip | Clean the substrate and select a ratio that gives real interference rather than relying on friction. |
+| Part rejected on cleanliness | Particles or handling residue on an ultra thin wall part | Glove handling and clean packaging for cleanroom and medical destinations. |
+| Adjacent material degraded | Recovery temperature above the local material limit | Set the process temperature from the lowest limit in the assembly. |
+
+## 8. Typical applications
+
+- Medical device and analytical instrument assemblies where the covering must be thin and clean.
+- Semiconductor equipment where the part sees heat and process chemistry.
+- Aerospace and defence harnesses with high temperature zones.
+- Precision splices where a thin wall covering is the only one that fits.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/ptfe-fep-pfa-teflon-heat-shrink-tubing.html
