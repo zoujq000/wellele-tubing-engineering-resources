@@ -1,0 +1,79 @@
+# 15kV Busbar Heat Shrink Tubing (8.7/15kV 母线热缩套管 MPG)
+
+**Document:** Engineering reference, P10, revision 2026-09  
+**Product family:** Busbar Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/8-15kv-busbar-heat-shrink-casing-mpg10.html
+
+---
+
+## 1. Scope
+
+This reference covers heat shrink sleeving for 8.7/15 kV busbars in switchgear and panel builds. Insulating a busbar changes the clearance calculation, so this document is written around the two reasons a builder does it: dielectric withstand and phase spacing.
+
+## 2. Construction
+
+- Cross-linked polyolefin or fluoropolymer based sleeving with anti-tracking fillers.
+- Applied over the bar and recovered with hot air, so the sleeve takes the profile of the bar, including bends.
+- Heavy wall versions available where the bar is large or the clearance demand is high.
+- Available in the colours used to identify phases.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | 8.7/15 kV | Applied as an insulating covering, not as a substitute for the assembly clearance rules. |
+| Wall | Medium and heavy wall grades | Wall thickness and CTI are the two properties that carry the rating. |
+| Tracking resistance | Anti-tracking formulation, declared CTI | The property that decides outdoor and polluted service. |
+| Flame behaviour | UL 94 V-0 common specification | Confirm against the grade datasheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The bar profile, including bends and joints, because the sleeve has to recover around them.
+- Phase spacing required after insulation, which is the design driver in most panel rebuilds.
+- Whether the assembly has to meet a tracking or CTI requirement, which decides the compound.
+- Copper or aluminium bar, and the surface preparation that goes with each.
+- Whether the build is tested as an assembly, in which case the clearance rules of the assembly standard govern.
+
+## 5. Standards commonly specified
+
+- IEC 61439-1, low voltage switchgear and controlgear assemblies, for clearance and creepage practice.
+- IEC 60664-1, insulation coordination.
+- IEC 60112, determination of comparative tracking index.
+- ASTM D2303, inclined plane tracking and erosion.
+- UL 94, flammability of the polymer.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Deburr the bar and clean it before sleeving. An edge under a recovered sleeve is a stress point.
+- Recover from the centre of the bar outwards so air is driven to the ends.
+- Do not cut the sleeve back to a sharp edge at a bend. Leave the specified overlap onto the plain bar.
+- Check the recovered wall at bends, since recovery thins the wall slightly where it stretches.
+- Torque the connections to specification after sleeving, since the sleeve changes the surface under the fastener.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Flashover between phases | Phase clearance below the requirement, with the sleeve assumed to carry more than it does | Calculate clearance with the sleeved bar profile and apply the assembly standard, not a rule of thumb. |
+| Tracking and erosion in service | Compound not matched to polluted or humid service | Select an anti-tracking grade with a declared CTI for the environment. |
+| Sleeve split at a bend | Bar not deburred, or recovery carried out with too much local heat | Deburr and clean the bar, and recover with even heat around the circumference. |
+| Loose connection after sleeving | Fastener torqued before the sleeve was fully recovered, or surface change not accounted for | Complete recovery first, then torque to specification. |
+
+## 8. Typical applications
+
+- Switchgear and controlgear panel builds and rebuilds.
+- Substation and transformer connections using insulated bar.
+- Industrial distribution boards where phase spacing is tight.
+- Export panel builders who have to demonstrate clearance compliance.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/8-15kv-busbar-heat-shrink-casing-mpg10.html
