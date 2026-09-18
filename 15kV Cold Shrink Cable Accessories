@@ -1,0 +1,77 @@
+# 15kV Cold Shrink Cable Accessories (8.7/15kV 冷缩电缆附件)
+
+**Document:** Engineering reference, P02, revision 2026-09  
+**Product family:** MV Cold Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/8-7-15kv-cold-shrink-cable-accessories.html
+
+---
+
+## 1. Scope
+
+This reference covers cold shrink terminations and straight joints for 8.7/15 kV medium voltage XLPE cable. It concentrates on the two things that decide whether the accessory survives: where the stress cone sits, and how the cable screen cut-back is executed.
+
+## 2. Construction
+
+- Pre-expanded silicone or EPDM insulating sleeve with an integrated geometric stress cone.
+- Conductive deflector at the cable screen end, moulded into the sleeve rather than added as a separate part on site.
+- Outdoor versions carry moulded rain sheds over the same insulating body.
+- Sealing at the sheath and at the lug end by mastic and an elastic sealing lip.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | Uo/U 8.7/15 kV, Um 17.5 kV | Select on the cable class and the system earthing arrangement. |
+| Conductor range (typical) | 25 to 400 mm2 | Confirm against the accessory table for the specific cable insulation diameter. |
+| Cable temperature basis | XLPE 90 C continuous, 250 C short circuit | The accessory wall is dimensioned for the same conductor temperature basis as the cable. |
+| Configurations | Indoor, outdoor, single-core, three-core | Outdoor creepage is set by the shed profile, not by a longer body alone. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Cable insulation diameter and screen cut-back length, which are the two dimensions the drawing actually controls.
+- Indoor or outdoor, because creepage and shed profile differ.
+- Single-core or three-core, since three-core accessories are applied per core.
+- Metallic screen construction and whether the screen needs a separate earthing connection.
+- Terminal type and stud size where the termination lands on switchgear or a transformer.
+
+## 5. Standards commonly specified
+
+- IEC 60502-4, test requirements for accessories for cables from 6 kV up to 30 kV.
+- IEC 61442, test methods for power cable accessories rated above 3.6 kV up to 36 kV.
+- IEEE Std 48, test procedures for AC cable terminations.
+- IEC 60664-1, insulation coordination including creepage and clearance.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Cut the screen back to the drawing length. A screen that is short leaves an unbonded region; a screen that is long crowds the stress cone.
+- Do not move the sleeve once the stress cone has passed the screen end. Repositioning breaks the interface that controls the field.
+- Keep the cable insulation free of grease, pencil marks and moisture before recovery.
+- Confirm the earthing connection to the screen or armour is made and torqued before the joint is closed.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Partial discharge at the screen cut | Screen cut-back outside tolerance or an uneven cut edge concentrating stress | Cut to the drawing length, deburr the screen edge, and verify with a PD check if the project requires one. |
+| Surface tracking on an outdoor termination | Insufficient creepage for the pollution level, or contamination on the sheds | Match the shed profile to the site pollution class and clean the outer surface before energisation. |
+| Moisture path into the joint | Sealing at the sheath or the lug end left incomplete | Apply mastic and sealing parts to drawing and confirm the sheath is clean and dry. |
+| Loose recovered wall | Accessory selected against conductor size while the insulation OD is out of range | Select on the measured insulation diameter. |
+
+## 8. Typical applications
+
+- Utility and industrial MV distribution networks and ring main units.
+- Renewable collection systems where terminations are made in the field.
+- Data centre and infrastructure MV connections with short outage windows.
+- Switchgear and transformer interfaces where an indoor and an outdoor variant are both needed.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/8-7-15kv-cold-shrink-cable-accessories.html
