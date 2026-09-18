@@ -1,0 +1,77 @@
+# 20kV Class Cold Shrink Accessories (18/20kV 冷缩电缆附件)
+
+**Document:** Engineering reference, P04, revision 2026-09  
+**Product family:** MV Cold Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/18-20kv-cold-shrink-cable-accessories.html
+
+---
+
+## 1. Scope
+
+This reference covers cold shrink terminations and joints applied to 18/20 kV class cable in heavy industrial and mining distribution. It is written around service conditions rather than voltage alone, because at this class the accessory is often chosen by what the site throws at it.
+
+## 2. Construction
+
+- Pre-expanded elastomeric sleeve with integrated stress control and a conductive deflector at the screen.
+- Sealing system designed for a dusty and wet installation environment.
+- Mechanically robust outer wall for cable that is re-trained during maintenance.
+- Indoor and outdoor configurations from the same insulating body family.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | 18/20 kV class, Um 24 kV | Confirm the exact Uo/U against the cable designation. |
+| Conductor range (typical) | 35 to 500 mm2 | Select on measured insulation diameter, not on conductor size alone. |
+| Cable temperature basis | XLPE 90 C continuous, 250 C short circuit | Applies to the cable and to the accessory interface. |
+| Environment | Dusty, humid, mechanically exposed | Sealing and wall robustness are the differentiators here. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Environmental exposure: dust, humidity, wash-down and mechanical contact along the cable route.
+- Whether maintenance crews will re-train the cable, which argues for a thicker outer wall.
+- Availability of spare parts, because a second outage on the same feeder is expensive.
+- Insulation diameter and screen cut-back length as measured on the actual cable.
+- Whether a partial discharge test is required at commissioning.
+
+## 5. Standards commonly specified
+
+- IEC 60502-4, test requirements for accessories for cables from 6 kV up to 30 kV.
+- IEC 61442, test methods for accessories above 3.6 kV up to 36 kV.
+- IEC 60664-1, insulation coordination.
+- IEC 60502-1, the cable standard that fixes the insulation geometry and temperature basis.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Protect the opened cable ends from dust during the outage. In a mining environment this is the single largest source of contamination.
+- Keep the recovered sleeve mechanically protected until the joint is closed and backfilled.
+- Check the accessory against the cable insulation diameter before starting the cut-back.
+- Record installation data for the maintenance file so the next crew does not have to re-derive it.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Partial discharge after installation | Contamination at the interface, or an installation error in the stress control region | Protect the interface from dust, follow the drawing, and test at commissioning where required. |
+| Mechanical damage to the outer wall | Cable re-trained across an edge during maintenance | Respect the bend radius and protect the sleeve where the route is congested. |
+| Long downtime on a repeat failure | No spare accessory held for the feeder | Hold one spare kit per critical feeder. |
+| Moisture ingress | Sealing incomplete on a damp installation day | Dry the surfaces and apply the sealing system to drawing. |
+
+## 8. Typical applications
+
+- Mining distribution and heavy industrial substations.
+- Industrial distribution where cable routes are congested and re-work is likely.
+- MV cable OEMs supplying site-specific lengths with accessories.
+- Utility and contractor maintenance where downtime cost dominates the accessory price.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/18-20kv-cold-shrink-cable-accessories.html
