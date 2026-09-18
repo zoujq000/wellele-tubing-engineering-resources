@@ -1,0 +1,78 @@
+# Fuse Body Tube (熔断器管 Fuse Body Tube)
+
+**Document:** Engineering reference, P12, revision 2026-09  
+**Product family:** Fuse & Arc Quenching  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://wellele.com/solutions/mv-hv-fuse-body-tube.html
+
+---
+
+## 1. Scope
+
+This reference covers fuse body tubes for high voltage fuses in classes from 1 kV to 36 kV. A fuse body is a pressure vessel during interruption as well as an insulator in service, so the requirements are wider than a dielectric specification.
+
+## 2. Construction
+
+- Resin impregnated glass or fibre wall machined to the required bore, outside diameter and length.
+- End features such as threads, holes or grooves machined after cure, which is where most handling damage originates.
+- Arc quenching liner inside the bore in expulsion and current limiting designs.
+- Concentricity and bore straightness are the tolerances that decide whether the fuse assembles and interrupts consistently.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage classes | 1 kV to 36 kV, across the fuse families produced in this range | Confirm the class against the fuse design, not the tube dimensions alone. |
+| Wall form | Resin impregnated glass or fibre, machined to bore and length | Wall build and liner material are selected with the fuse designer. |
+| End features | Threads, holes, grooves machined to drawing | Machining is where concentricity and surface damage are controlled. |
+| Interruption duty | Established by type test on the complete fuse | The tube alone is not type tested; the fuse is. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The fuse class and the interruption duty the tube has to survive.
+- Whether the design is expulsion or current limiting, which changes the liner requirement.
+- The gas generating behaviour required inside the bore during interruption.
+- Machined end features and the concentricity tolerance the assembly can accept.
+- Whether the tube is a standard size or a replacement for an existing design, in which case the drawing governs.
+
+## 5. Standards commonly specified
+
+- IEC 60282-1, high voltage fuses for current limiting fuse designs.
+- IEC 60282-2, high voltage fuses for expulsion fuse designs.
+- IEEE C37.41, design tests for high voltage fuses and other distribution equipment.
+- IEEE C37.42, distribution cutouts and fuse links.
+- IEC 60787, application guide for high voltage current limiting fuses.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Handle machined tubes without impact. A machined wall is strongest in compression and weakest against a point load at the thread or hole.
+- Keep the bore clean and free of machining dust before the liner is fitted.
+- Check concentricity at incoming inspection against the drawing, since it is the tolerance most often lost in transport.
+- Store in the original packaging to protect threads and machined ends.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Mechanical burst during interruption | Wall or liner not matched to the interruption duty | Confirm the tube against the fuse design and the type test evidence for that design. |
+| Arc ablation of the bore | Liner material or thickness unsuitable for the fault level | Match the liner to the duty, and confirm the type test on the complete fuse. |
+| Tube will not assemble into the fuse | Concentricity or bore tolerance outside the drawing | Inspect concentricity and bore at incoming, and hold the drawing tolerance in machining. |
+| Thread or hole damage in service | Point loading during assembly or handling | Use the specified assembly tooling and store in protective packaging. |
+
+## 8. Typical applications
+
+- Fuse manufacturers building expulsion and current limiting fuse families.
+- Dropout cutout and distribution cutout OEMs.
+- Current limiting fuse and switch fuse manufacturers.
+- Electrical insulation fabricators converting tubes into fuse assemblies.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@wellele.com
+- Product reference: https://wellele.com/solutions/mv-hv-fuse-body-tube.html
