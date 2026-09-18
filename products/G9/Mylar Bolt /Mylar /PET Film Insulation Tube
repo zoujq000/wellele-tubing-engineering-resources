@@ -1,0 +1,80 @@
+# Mylar / PET Film Insulation Tube (Mylar 管（PET 薄膜绝缘管）)
+
+**Document:** Engineering reference, P20, revision 2026-09  
+**Product family:** PET Film Insulation  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://welleletubing.com/products/mylar-tube-mylar-tubing/
+
+---
+
+## 1. Scope
+
+This reference covers insulation tubes formed from polyester film, the Mylar type material. The grade is chosen where the temperature class allows it and the cost of a fluoropolymer or polyimide tube is not justified.
+
+## 2. Construction
+
+- Tube formed from polyester film, supplied in continuous lengths or cut to size.
+- Wall thickness set by film gauge and construction.
+- Used as a lead covering, a winding liner or a general electrical insulation sleeve.
+- Semi-transparent in thin gauges.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Material | Polyester film, biaxially oriented | Property requirements per the applicable film standard. |
+| Thermal class | Declared per the insulation class the design uses | Confirm against the temperature class of the equipment, not against a general figure. |
+| Wall | Thin wall, set by film gauge | Thin wall consistency is the recurring specification point. |
+| Form | Continuous length or cut to size | Cut length tolerance matters where the tube is assembled automatically. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The thermal class of the equipment, since PET is chosen only where the class allows it.
+- Whether the tube is assembled by hand or by machine, which sets the length tolerance and the packaging format.
+- Wall and bore, against the lead or winding it covers.
+- Whether the part has to resist a solvent or a varnish used in the winding process.
+- The number of small batch sizes involved, which is usually the real cost driver.
+
+## 5. Standards commonly specified
+
+- IEC 60674-3-2, requirements for biaxially oriented polyethylene terephthalate films for electrical purposes.
+- IEC 60085, thermal evaluation and classification of electrical insulation, for the class declared.
+- UL 94, flammability where declared.
+- ASTM D882, tensile properties of thin plastic sheeting.
+- IEC 60684 series, flexible insulating sleeving, for sleeving requirements generally.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Avoid sharp edges on the lead or core before the tube is fitted, since thin film splits at a burr.
+- Do not force the tube over a lead that is at the bore limit.
+- Keep the parts dry and clean before winding.
+- Store in a size-labelled format, since thin wall gauges are visually similar.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Tube splits during assembly | Burr on the lead, or a bore at the limit of the range | Deburr the lead and select the bore with clearance. |
+| Insulation resistance low after varnish cure | Film not compatible with the process temperature or the solvent used | Confirm the film against the full process exposure, not only the service temperature. |
+| Length tolerance rejects the batch | Cut length specified without the assembly method in mind | Agree the cut tolerance against the assembly method. |
+| Material substituted without approval | Cost pressure leading to a different film grade | Confirm that any substitution is assessed against the thermal class and the process exposure. |
+
+## 8. Typical applications
+
+- Motor and compressor winding insulation and lead covering.
+- Transformer lead insulation and coil winding.
+- Relay, solenoid and small electrical assembly insulation.
+- General low temperature electrical insulation where cost is the deciding factor.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@welleletubing.com
+- Product reference: https://welleletubing.com/products/mylar-tube-mylar-tubing/
+
+> Note: The site product page covers the Mylar tubing family, which includes both bolt sleeves and general PET insulation tube. A separate page for the general PET tube range is on the shop roadmap.
