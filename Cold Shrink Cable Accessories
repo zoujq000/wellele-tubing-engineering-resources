@@ -1,0 +1,78 @@
+# Cold Shrink Cable Accessories (0.6/1kV 冷缩电缆附件)
+
+**Document:** Engineering reference, P01, revision 2026-09  
+**Product family:** LV Cold Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/0-6-1kv-cold-shrink-cable-accessories-lsy.html
+
+---
+
+## 1. Scope
+
+This reference covers prefabricated cold shrink terminations and straight joints applied to 0.6/1 kV distribution cable, and the parameters a purchaser normally fixes before a size is quoted. It is written for the person who has to match an accessory to a cable that is already on site, not the person choosing the cable.
+
+## 2. Construction
+
+- Factory-expanded EPDM or silicone sleeve held under compression on a removable spiral supporting core.
+- The core is unwound on site, so the sleeve recovers by its own stored elastic energy and no flame or heat source is needed.
+- Sealing is completed by mastic strips plus an outer sleeve or adhesive layer closing the cable-to-accessory interface.
+- Because recovery is elastic rather than thermal, the recovered wall stays in permanent radial compression on the cable insulation.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Rated voltage | 0.6/1 kV | Class per the cable standard, not a test level for the accessory alone. |
+| Conductor range (typical) | 10 to 400 mm2 | Confirm against the accessory size table, not against the lug bore. |
+| Cable insulation basis | XLPE 90 C continuous, PVC 70 C continuous | Accessory wall thickness follows the cable temperature class. |
+| Installation | No open flame | Suited to confined spaces, cabinets and areas under a hot work permit. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Conductor cross-section plus number of cores, both of which change the accessory kit.
+- Measured cable insulation diameter, because the same conductor size exists with different wall thicknesses.
+- Screen or armour construction, which decides whether an earth continuity path is part of the kit.
+- Lug type and stud size where the accessory lands on a terminal rather than inside a joint.
+- Service environment: indoor, outdoor, buried, duct or cable tray.
+
+## 5. Standards commonly specified
+
+- EN 50393, test requirements for accessories for LV distribution cables up to 0.6/1 kV.
+- IEC 60502-1, the cable standard that fixes the insulation geometry the accessory has to fit.
+- IEC 60684 series, flexible insulating sleeving base material requirements.
+- UL 94, flame behaviour of the polymer parts.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Unwind the supporting core completely before releasing the sleeve. A partly unwound core produces a local flat spot and an uneven recovered wall.
+- Clean and dry the cable insulation before the sleeve is positioned. A cold shrink interface does not tolerate dust or moisture trapped under it.
+- Centre the sleeve on the joint before the last turn of the core is released, since elastic recovery cannot be repositioned afterwards.
+- Store cores undeformed, out of direct sunlight, and within the storage temperature range on the datasheet.
+- Do not use a knife near the recovered wall. Score marks on the outer surface are a tracking path in damp service.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Water ingress along the lug or core interface | Incomplete sealing at the end of the sleeve or a mastic strip omitted | Fit mastic strips to drawing and respect the stated overlap onto the cable sheath. |
+| Uneven recovery, local flat spot | Supporting core only partly unwound, or sleeve stored deformed | Unwind the full core, store cores unloaded, reject sleeves with visible deformation. |
+| Loose fit after installation | Accessory selected on conductor size while the actual insulation OD is outside the range | Measure insulation OD and select from the accessory size table. |
+| Surface tracking in outdoor cabinets | Contamination and moisture on a damaged outer wall | Handle without scoring the wall and keep the specified creepage on the terminal side. |
+
+## 8. Typical applications
+
+- Low voltage distribution joints and terminations in utility and industrial networks.
+- Cable accessory OEMs and cable manufacturers building kits for export markets.
+- Electrical distributors supporting field repair and maintenance crews.
+- Industrial EPC work where a hot work permit is not available for a joint or termination.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/0-6-1kv-cold-shrink-cable-accessories-lsy.html
