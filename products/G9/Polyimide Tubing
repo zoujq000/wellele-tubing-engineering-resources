@@ -1,0 +1,79 @@
+# Polyimide Tubing (聚酰亚胺管 Polyimide Tubing)
+
+**Document:** Engineering reference, P18, revision 2026-09  
+**Product family:** Precision Polymer Tubing  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://welleletubing.com/products/polyimide-tubing/
+
+---
+
+## 1. Scope
+
+This reference covers polyimide tubing, the thin wall tubing made from polyimide film or by extrusion. It is normally specified for three properties at once: very thin wall, high temperature, and dimensional precision.
+
+## 2. Construction
+
+- Produced either by winding and bonding polyimide film, or by extrusion, and the two processes give different tolerance and wall characteristics.
+- Wound tube gives very thin walls and a defined ID. Extruded tube gives more consistent concentricity across a length.
+- Available in sizes down to sub-millimetre ID with wall thickness in the tens of microns.
+- Naturally amber and semi-transparent in thin walls.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Continuous use temperature | Commonly quoted from about -269 C to +400 C for polyimide film | Confirm the grade against the specific datasheet. |
+| Wall | Ultra thin wall, down to tens of microns | Wall thickness and tolerance are the two properties most often specified. |
+| Tolerance | ID and OD tolerance declared per size | Concentricity matters as much as the nominal dimensions. |
+| Flame behaviour | UL 94 V-0 typical for polyimide film | Confirm against the grade datasheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Whether the tube is a structural or an insulating element in the assembly, which decides the tolerance class.
+- The ID tolerance the part has to hold, since that is what locates a probe or a wire.
+- Concentricity and straightness requirements across the full length, not only at the ends.
+- Cleanliness: whether particles or burrs are a rejection criterion.
+- Total length and quantity against the custom size requirement, since each size is a distinct build.
+
+## 5. Standards commonly specified
+
+- UL 94, flammability of the material, V-0 typical for polyimide film.
+- IEC 60674 series, plastic films for electrical purposes.
+- ASTM E595, outgassing in vacuum, relevant to space and vacuum hardware.
+- ISO 10993 and USP Class VI, where the tube is used in a medical device.
+- ASTM D2671, test methods applicable to heat shrinkable and related tubing where used.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Cut thin wall polyimide tube with a sharp blade or a controlled cutting process. Crushing it closes the bore.
+- Handle with clean gloves where the part goes into a semiconductor or medical build.
+- Do not crease the tube. A crease in a thin wall polyimide tube does not recover.
+- Store in clean packaging, and in a size-labelled format, since thin wall sizes are visually similar.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Bore blocked or restricted after cutting | Tube crushed during cutting | Use a controlled cutting process and inspect the bore on a sample from each batch. |
+| Part rejected on cleanliness | Handling and packaging not controlled for the destination | Glove handling and clean packaging for semiconductor and medical builds. |
+| Concentricity outside requirement | Process selected at the tolerance limit for the size | Agree the tolerance class against the process before the size is committed. |
+| Lot to lot variation | Custom size built more than once without a held specification | Hold a written dimensional specification for the size and inspect against it. |
+| Fit problem at assembly | ID tolerance and the inserted part tolerance not analysed together | Analyse the two tolerance stacks together rather than specifying each alone. |
+
+## 8. Typical applications
+
+- Semiconductor probe cards and test sockets, where the tube locates a probe or insulates a lead.
+- Motor and coil insulation in high temperature windings.
+- Precision sensors and analytical instruments.
+- Medical devices where a thin wall insulating sleeve has to be biocompatible.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@welleletubing.com
+- Product reference: https://welleletubing.com/products/polyimide-tubing/
