@@ -1,0 +1,79 @@
+# 35kV Busbar Heat Shrink Tubing (26/35kV 母线热缩套管 MPG35)
+
+**Document:** Engineering reference, P11, revision 2026-09  
+**Product family:** Busbar Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/26-35kv-busbar-heat-shrink-casing-mpg35.html
+
+---
+
+## 1. Scope
+
+This reference covers heavy wall heat shrink sleeving for 26/35 kV busbars. At this class the wall is thick enough that recovery uniformity around the bar becomes the practical issue, not the dielectric property of the compound.
+
+## 2. Construction
+
+- Heavy wall cross-linked polyolefin based sleeving with anti-tracking fillers.
+- Thick wall retains heat during recovery, so cooling has to be controlled rather than accelerated.
+- Supplied in large diameters for step and flat bar profiles.
+- Available with adhesive lined ends where the termination of the sleeve has to be sealed.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Voltage class | 26/35 kV, up to 36 kV busbar systems | Applied as a covering within an assembly whose clearance rules still govern. |
+| Wall | Heavy wall | Wall thickness plus tracking performance carry the rating. |
+| Tracking resistance | Anti-tracking formulation, declared CTI | The controlling property for outdoor and polluted installations. |
+| Flame behaviour | UL 94 V-0 common specification | Confirm against the grade datasheet. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- Bar profile and size, including whether the bar is stepped or has a bolted joint inside the sleeved length.
+- End treatment: whether the sleeve has to be sealed or is left open at the plain bar.
+- Outdoor or indoor installation, which changes the tracking and UV requirement.
+- Whether the assembly will be type tested, since the test will govern the clearance calculation.
+- Recovery method available on site, because heavy wall parts need sustained even heat.
+
+## 5. Standards commonly specified
+
+- IEC 61439-1, assembly clearance and creepage practice.
+- IEC 60664-1, insulation coordination.
+- IEC 60112, determination of comparative tracking index.
+- ASTM D2303, inclined plane tracking and erosion.
+- IEC 60243, electric strength of insulating materials.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Heat the full circumference evenly and keep heating until the wall has completed recovery. Heavy wall parts look recovered on the outside while the inner surface is still cold.
+- Let the part cool in place without forced cooling, since the recovered shape sets as it cools.
+- Deburr and clean the bar, and remove any metal swarf before sleeving.
+- Check the recovered wall at bends and at the ends of the sleeved length before closing the assembly.
+- Re-torque the bar connections after recovery is completed.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Incomplete recovery at the inner surface | Heat applied too quickly and stopped as soon as the outer surface looked recovered | Extend the heating time, verify on a sample bar, and check wall thickness after recovery. |
+| Tracking at the end of the sleeve | Open end left close to an energised part or exposed to pollution | Set the sleeve back to the drawing so the required creepage over the plain bar is preserved. |
+| Split at a bend | Local overheating at a bend or a burr left on the bar | Deburr the bar and move the heat source continuously rather than holding it in one place. |
+| Assembly fails clearances | Clearance calculated from the plain bar rather than the sleeved profile | Calculate with the final sleeved dimensions and apply the assembly standard. |
+
+## 8. Typical applications
+
+- Medium voltage switchgear busbars in substations and industrial installations.
+- Outdoor switchyards where tracking performance matters.
+- Mining and heavy industrial switchgear.
+- Utility EPC work where the assembly has to be type tested.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/26-35kv-busbar-heat-shrink-casing-mpg35.html
