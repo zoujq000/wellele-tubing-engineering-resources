@@ -1,0 +1,79 @@
+# 2:1 Dual Wall Adhesive Heat Shrink Tubing (双壁含胶热缩管 2:1)
+
+**Document:** Engineering reference, P06, revision 2026-09  
+**Product family:** Adhesive Heat Shrink  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://heatshrinktubes.net/products/dual-wall-adhesive-heat-shrink-tubing-3to1-4to1.html
+
+---
+
+## 1. Scope
+
+This reference covers dual wall, adhesive lined heat shrink tubing with a 2:1 recovery ratio. It is aimed at the harness and connector engineer who has to specify both a mechanical covering and a water seal with one part.
+
+## 2. Construction
+
+- Cross-linked polyolefin outer wall providing the mechanical and dielectric covering.
+- Inner melt layer of hot melt adhesive that flows during recovery and fills the space around the joint.
+- The adhesive layer is the seal; the outer wall is the insulation. They are specified separately even though they arrive as one tube.
+- Supplied expanded at 2:1, in discrete lengths or on a reel for automatic cutting.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Shrink ratio | 2:1 | Enough for a straight splice or connector body, not for a large irregular shape. |
+| Continuous operating temperature | -55 C to +125 C (typical polyolefin) | Confirm against the specific grade datasheet. |
+| Recovery | Hot air, typically 120 to 150 C air temperature | Adhesive flow begins before the wall reaches full recovery. |
+| Flame behaviour | UL 224 VW-1 (common specification) | Flame rating is a property of the grade, not of the ratio. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The largest diameter the assembly has to pass over, since 2:1 limits how irregular the joint can be.
+- Whether the joint needs a true water seal or only a covering, which decides whether the adhesive layer is required at all.
+- The stiffness acceptable after recovery, because the adhesive layer changes the feel of a flexible harness.
+- Recovery temperature window against the materials in the assembly, so the adhesive flows before anything nearby is damaged.
+- Whether the part is cut by hand or on an automatic machine, which changes the tolerance on the supplied length.
+
+## 5. Standards commonly specified
+
+- UL 224, extruded insulating tubing.
+- SAE-AMS-DTL-23053 and the adhesive lined polyolefin slash sheet within that family.
+- IEC 60684 series, flexible insulating sleeving.
+- ASTM D2671, test methods for heat shrinkable tubing.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Recover from the centre outwards, or from one end in a continuous sweep, so trapped air is pushed ahead of the adhesive rather than sealed in.
+- Do not overheat to make the tube recover faster. Scorching and an adhesive that has been burnt both reduce sealing performance.
+- Clean the substrate before recovery. Adhesive bonds to what it touches, including contamination.
+- Keep the assembly constrained until the part has cooled, since the adhesive is still soft while hot.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Water still reaches the conductor | Adhesive flow insufficient, or a channel left along a wire bundle | Size the tube so the adhesive has to fill the gap, recover evenly, and check for unfilled channels on a sample. |
+| Adhesive overflow onto the connector | Tube started too far from the centre or too much adhesive in the grade chosen | Centre the tube and confirm the grade selection against the joint volume. |
+| Uneven recovery, flat spots | Heat applied from one side only or the tube not fully recovered before cooling | Heat around the circumference and continue until the wall has visibly recovered. |
+| Cold cracking in service | Low temperature grade mismatch on an outdoor or under-hood harness | Select the temperature grade for the coldest expected service condition. |
+
+## 8. Typical applications
+
+- Automotive and appliance harnesses where a splice has to be sealed against water.
+- Connector to cable interfaces on sensors and sealed assemblies.
+- General electrical insulation where both a covering and a seal are needed in one step.
+- Distribution and field repair where a repair has to match the original harness build quality.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@heatshrinktubes.net
+- Product reference: https://heatshrinktubes.net/products/dual-wall-adhesive-heat-shrink-tubing-3to1-4to1.html
+
+> Note: The site product page covers the 3:1 and 4:1 dual wall range. A 2:1 dual wall page is on the shop roadmap; until it exists this document links to the dual wall family page.
