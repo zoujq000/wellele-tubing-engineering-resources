@@ -1,0 +1,79 @@
+# Mylar Bolt / Fastener Insulation Sleeve (Mylar 螺栓/紧固件套管)
+
+**Document:** Engineering reference, P19, revision 2026-09  
+**Product family:** PET Film Insulation  
+**Manufacturer:** WELLELE (Well Electric)  
+**Product page:** https://welleletubing.com/products/mylar-tube-mylar-tubing/
+
+---
+
+## 1. Scope
+
+This reference covers polyester film, that is Mylar type, sleeves for bolts and fasteners. In a flange isolation kit the sleeve is the component that breaks the electrical path through the bolt, so its fit and damage condition matter more than its thickness alone.
+
+## 2. Construction
+
+- Tube formed from polyester film, supplied in a range of bore and length to suit common bolt sizes.
+- Wall thickness is set by the film gauge and the number of plies.
+- Fitted over the bolt before the flange is closed, so the film ends up clamped between the flanges.
+- Costs less than a fluoropolymer sleeve of the same size, which is why it is used across a whole kit.
+
+## 3. Typical specification range
+
+| Parameter | Typical value | Notes |
+| --- | --- | --- |
+| Material | Polyester film, Mylar type | Electrical and mechanical properties declared per film standard. |
+| Form | Sleeve cut to length for a bolt size | Bore must clear the bolt and the wall must clear the hole. |
+| Tolerance | Bore and wall to suit the bolt and the bolt hole | Bolt hole size varies between flange standards. |
+| Quantity use | One per bolt, consumed across the kit | Cost per sleeve drives kit economics. |
+
+Values above describe what is commonly specified for this component class. Confirm the exact figure against the datasheet for the grade being purchased before design release.
+
+## 4. Selection and sizing
+
+- The bolt size and the bolt hole diameter, both of which vary with the flange standard.
+- The dielectric requirement of the isolation kit as a whole, since the sleeve is one element of it.
+- The clamping load, because the sleeve is compressed between the flanges.
+- Length: whether the sleeve is flush with the flange faces or protrudes into the gasket.
+- Whether the kit is for a standard flange or a special one, which usually means a custom length.
+
+## 5. Standards commonly specified
+
+- IEC 60674-3-2, requirements for biaxially oriented polyethylene terephthalate films for electrical purposes.
+- ASTM D882, tensile properties of thin plastic sheeting.
+- IEC 60684 series, flexible insulating sleeving, for sleeving requirements generally.
+- UL 94, flammability where declared.
+
+Standards are listed as those normally cited for this component class. They describe the requirement, not a claim of certification. Test evidence applicable to a specific order is confirmed per purchase order.
+
+## 6. Handling and installation
+
+- Handle the sleeves so edges are not nicked. A damaged edge at the flange face is where the dielectric break fails first.
+- Keep the parts clean and dry before fitting.
+- Fit the correct length for the flange stack. A sleeve that is too short leaves a metal path.
+- Do not reuse a sleeve that has been removed after clamping.
+
+## 7. Failure modes and mitigation
+
+| Failure mode | Likely cause | Mitigation |
+| --- | --- | --- |
+| Isolation resistance fails at test | Sleeve too short for the flange stack, or the bolt touching the hole | Specify length against the actual flange stack and confirm the sleeve clears the hole. |
+| Film split during assembly | Edge damage or an oversized bolt relative to the bore | Match bore to the bolt and handle without nicking edges. |
+| Kit cost pressure | Fluoropolymer sleeve specified where PET would meet the requirement | Specify PET where the temperature and chemical duty allow it. |
+| Custom length lead time | Only standard lengths held | Confirm lengths against the flange schedule at the enquiry stage. |
+
+## 8. Typical applications
+
+- Flange isolation kits for pipelines and process plant.
+- Galvanic corrosion isolation between dissimilar metals.
+- Oil and gas, water and process piping where electrical isolation is required.
+- Gasket kit manufacturers and pipeline corrosion suppliers.
+
+## 9. Document control
+
+This reference is maintained by WELLELE (Well Electric). It is written as engineering documentation for the component class and is not a commercial offer.
+
+- Technical enquiries: sale@welleletubing.com
+- Product reference: https://welleletubing.com/products/mylar-tube-mylar-tubing/
+
+> Note: The site product page covers the Mylar tubing family. A dedicated bolt sleeve page is on the shop roadmap; until it exists this document links to the Mylar family page.
